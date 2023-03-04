@@ -1,2 +1,1 @@
-# ezra_alx
-this is second trial alx
+my second trial readme
